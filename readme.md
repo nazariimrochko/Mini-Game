@@ -1,2 +1,1 @@
-#Git lessons
-cool grid for me
+# Create a simple Javascript game: "click on the circle" 
